@@ -8,3 +8,5 @@ process
 3. Modify the project, then submit, and write down your modified content
 4. Merge the project into our main branch
 5. Just wait for the review and approval, and you can also leave a message for your opinion
+
+In the future, we will open source more projects, such as: contract, nft casting, swap, metaverse, blockchain application, dapp, please follow us, a cute cat.
